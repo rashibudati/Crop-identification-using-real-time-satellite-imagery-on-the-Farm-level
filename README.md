@@ -1,0 +1,1 @@
+# Crop-identification-using-real-time-satellite-imagery-on-the-Farm-level
